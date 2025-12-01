@@ -1,0 +1,19 @@
+body{
+    background-image: url("img/analog-static-noise-texture-overlay-intensive-colorful-noise-pattern-no-signal-white-noise-artifacts-vhs-glitch-bad-tv-signal-crt-transitions-distorted-vcr-video.jpg");
+    background-repeat:repeat-x repeat-y;
+    background-size:cover contain;
+    background-position:center;
+
+}
+.px-4{
+    background-color:darkblue
+}
+
+.mb-4{
+    color:white
+
+}
+
+.fw-bold{
+    color:white
+}
