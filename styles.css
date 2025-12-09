@@ -4,6 +4,7 @@ body{
     background-size:cover contain;
     background-position:center;
 
+
 }
 .px-4{
     background-color:darkblue
@@ -15,7 +16,8 @@ body{
 }
 
 .fw-bold{
-    color:white
+    color:white;
+    font-family:'fontdiner-swanky'
 }
 
 .accent{
@@ -33,11 +35,41 @@ body{
 }
 
 .accent2{
-    background-color:aliceblue;
+    background-color:lightgray;
     margin-top: 100px;
 }
 
 .accent3{
-    background-color:darkslategrey;
+    background-color:rgb(0, 4, 67);
     margin-top:100px
+}
+
+.accent4{
+    background-color:white;
+    margin-top:100px;
+    margin-bottom:100px
+}
+
+.pb-4{
+    color:black;
+}
+
+.fontdiner-swanky-regular {
+  font-family: "Fontdiner Swanky", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h1{
+     font-family: "Fontdiner Swanky", serif;
+}
+
+
+.noto-sans-mono {
+  font-family: "Noto Sans Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: 50px;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
 }
