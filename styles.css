@@ -7,7 +7,8 @@ body{
 
 }
 .px-4{
-    background-color:darkblue
+    background-color:darkblue;
+    border-radius:50px
 }
 
 .mb-4{
@@ -23,6 +24,7 @@ body{
 .accent{
     background-color:cyan;
     margin-top: 100px;
+    border-radius:50px
 }
 
 .pb-1{
@@ -37,17 +39,20 @@ body{
 .accent2{
     background-color:lightgray;
     margin-top: 100px;
+    border-radius:50px
 }
 
 .accent3{
     background-color:rgb(0, 4, 67);
-    margin-top:100px
+    margin-top:100px;
+    border-radius:50px
 }
 
 .accent4{
     background-color:white;
     margin-top:100px;
-    margin-bottom:100px
+    margin-bottom:100px;
+    border-radius:50px
 }
 
 .pb-4{
@@ -72,4 +77,12 @@ h1{
   font-style: normal;
   font-variation-settings:
     "wdth" 100;
+}
+
+.navbar{
+    border-radius:50px
+}
+
+.accent5{
+    color:white;
 }
